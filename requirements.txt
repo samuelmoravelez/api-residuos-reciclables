@@ -2,4 +2,4 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 psycopg[binary]
-python-doten
+python-dotenv
